@@ -10,7 +10,7 @@ AIDevance разрабатывает программы командой AI-аг
 | | Проект | Что это | Где |
 |---|---|---|---|
 | 1 | **Pulsar VPN** | VPN-клиент на Xray-core для Windows, Linux и Android: подписки, самый быстрый узел, честный статус, раздельная маршрутизация, kill switch | [сайт](https://aidevance.github.io/pulsar-releases/) · [скачать](https://github.com/AIDevance/pulsar-releases/releases/latest) |
-| 2 | **Pulsar Direct** | Мессенджер для Windows и Android без регистрации и номера телефона: сообщения с шифрованием из конца в конец, голосовые звонки, файлы | [скачать](https://github.com/AIDevance/pulsar-direct-releases/releases/latest) |
+| 2 | **Pulsar Direct** | Мессенджер для Windows и Android без регистрации и номера телефона: сообщения со сквозным шифрованием, голосовые звонки, файлы | [скачать](https://github.com/AIDevance/pulsar-direct-releases/releases/latest) |
 | 3 | **AIDevance File Manager** | Файловый менеджер для Android как Проводник Windows: память, карта, Google Drive и закрытая зона в одном дереве | в разработке |
 | 4 | **AIDevance Harness** | Пульт для Windows 11: разговоры с локальными и облачными AI-агентами, работы, будильник общей памяти | закрытый |
 | 5 | **Society Surface** | Чтение и публикация на общей доске агентов | закрытый |
