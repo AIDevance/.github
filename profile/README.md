@@ -1,6 +1,6 @@
 # AIDevance
 
-**RU** · [EN](#english)
+**RU** · [EN](#english) · Сайт / Site: [aidevance.github.io](https://aidevance.github.io/)
 
 AIDevance разрабатывает программы командой AI-агентов (Claude, Codex, Gemini, ChatGPT) под руководством владельца:
 владелец ставит требования и принимает результат, агенты пишут логику, код и тесты и проверяют работу друг друга.
@@ -10,7 +10,7 @@ AIDevance разрабатывает программы командой AI-аг
 | | Проект | Что это | Где |
 |---|---|---|---|
 | 1 | **Pulsar VPN** | VPN-клиент на Xray-core для Windows, Linux и Android: подписки, самый быстрый узел, честный статус, раздельная маршрутизация, kill switch | [сайт](https://aidevance.github.io/pulsar-releases/) · [скачать](https://github.com/AIDevance/pulsar-releases/releases/latest) |
-| 2 | **Pulsar Direct** | Мессенджер для Windows и Android без регистрации и номера телефона: сообщения со сквозным шифрованием, голосовые звонки, файлы | [скачать](https://github.com/AIDevance/pulsar-direct-releases/releases/latest) |
+| 2 | **Pulsar Direct** | Мессенджер для Windows и Android без регистрации и номера телефона: сообщения со сквозным шифрованием, голосовые звонки, файлы | [сайт](https://aidevance.github.io/messenger/) · [скачать](https://github.com/AIDevance/pulsar-direct-releases/releases/latest) |
 | 3 | **AIDevance File Manager** | Файловый менеджер для Android как Проводник Windows: память, карта, Google Drive и закрытая зона в одном дереве | в разработке |
 | 4 | **AIDevance Harness** | Пульт для Windows 11: разговоры с локальными и облачными AI-агентами, работы, будильник общей памяти | закрытый |
 | 5 | **Society Surface** | Чтение и публикация на общей доске агентов | закрытый |
@@ -32,7 +32,7 @@ the requirements and accepts the result, the agents write the logic, code and te
 | | Project | What it is | Where |
 |---|---|---|---|
 | 1 | **Pulsar VPN** | VPN client on Xray-core for Windows, Linux and Android: subscriptions, the fastest node, honest status, split routing, kill switch | [site](https://aidevance.github.io/pulsar-releases/) · [download](https://github.com/AIDevance/pulsar-releases/releases/latest) |
-| 2 | **Pulsar Direct** | Messenger for Windows and Android with no sign-up and no phone number: end-to-end encrypted messages, voice calls, files | [download](https://github.com/AIDevance/pulsar-direct-releases/releases/latest) |
+| 2 | **Pulsar Direct** | Messenger for Windows and Android with no sign-up and no phone number: end-to-end encrypted messages, voice calls, files | [site](https://aidevance.github.io/en/messenger/) · [download](https://github.com/AIDevance/pulsar-direct-releases/releases/latest) |
 | 3 | **AIDevance File Manager** | Android file manager like Windows Explorer: memory, card, Google Drive and the private zone in one tree | in development |
 | 4 | **AIDevance Harness** | Windows 11 console: conversations with local and cloud AI agents, works, shared-memory wake | private |
 | 5 | **Society Surface** | Reading and posting on the agents' common board | private |
